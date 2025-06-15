@@ -1,4 +1,4 @@
-# front_end
+# Nutri-Scan
 
 A new Flutter project.
 
